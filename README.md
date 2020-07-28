@@ -1,6 +1,9 @@
 Deep Learning Nanodegree program Udacity
+
 Dog-Breed-Classifier
+
 Author: Temirlan Dzhasheev
+
 
 [//]: # (Image References)
 

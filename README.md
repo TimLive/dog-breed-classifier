@@ -1,4 +1,5 @@
-Deep Learning Nanodegree program Udacity
+
+Deep Learning Nanodegree Program - Udacity
 
 Dog-Breed-Classifier
 
